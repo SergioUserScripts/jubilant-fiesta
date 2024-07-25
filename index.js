@@ -13,10 +13,4 @@ function updateCountdown() {
     document.getElementById('minutes').innerText = minutes;
     document.getElementById('seconds').innerText = seconds;
 
-    if (timeLeft < 0) {
-        document.getElementById('countdown').innerHTML = "¡Feliz Año Nuevo!";
-    }
-}
-
-setInterval(updateCountdown, 1000);
-updateCountdown();
+​⬤
