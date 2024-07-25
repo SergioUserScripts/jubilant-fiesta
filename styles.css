@@ -20,6 +20,6 @@ body {
     margin-top: 20px;
 }
 
-#countdown div {
+.time-box {
     margin: 0 10px;
 }
